@@ -11,6 +11,6 @@ resource "aws_s3_bucket" "example" {
 # bucket = "bob-versioning"
 # }
 
-resource "aws_s3_bucket" "bobby" {
-bucket = "test-sse3"
-}
+# resource "aws_s3_bucket" "bobby" {
+# bucket = "test-sse3"
+#}
